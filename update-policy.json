@@ -1,1 +1,7 @@
-{"minVersionCode": 3, "minVersionName": "1.1.2", "downloadUrl": "https://github.com/vpns6694-cyber/abbadi-opencode/releases/tag/opencode-1.1.2-force-update-2026-10-29", "messageAr": "", "messageEn": ""}
+{
+  "minVersionCode": 4,
+  "minVersionName": "1.1.3",
+  "downloadUrl": "https://github.com/vpns6694-cyber/abbadi-opencode/releases/tag/opencode-1.1.3-force-update-2026-10-29",
+  "messageAr": "لازم تحدّث Abbadi OpenCode للنسخة 1.1.3 أو أحدث عشان تكمل.",
+  "messageEn": "Please update Abbadi OpenCode to 1.1.3 or newer to continue."
+}
